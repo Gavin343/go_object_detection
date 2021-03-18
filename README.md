@@ -1,2 +1,4 @@
-# go_object_detection
-object-detection serving using go  tools
+# Awesome-Web-Crawler-Spider
+各种爬虫技术汇总
+
+### 汇总
